@@ -4,7 +4,7 @@ import pandas as pd
 import time
 
 # Configuração da API Flask
-API_URL = "https://balanca-metrologia.onrender.com"  # URL da API Flask
+API_URL = "https://balanca-metrologia.onrender.com/get_weight"  # URL da API Flask
 REFRESH_INTERVAL = 5  # Intervalo de atualização (segundos)
 
 # Inicializar o estado da aplicação
